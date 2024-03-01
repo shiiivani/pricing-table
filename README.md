@@ -19,3 +19,5 @@ The Pricing Table project provides users with various pricing options and allows
 2. Open your browser and navigate to http://localhost:3000 to view the pricing tables.
 
 - Users can toggle between different pricing options to view details and make selections.
+
+To view the live project, visit this link: [Live Demo](http://shiiivani.github.io/pricing-table)
