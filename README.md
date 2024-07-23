@@ -4,6 +4,8 @@
 
 The Pricing Table project provides users with various pricing options and allows them to toggle between different pricing tables.
 
+![Project Screenshot](src/assets/preview.png)
+
 ## Installation
 
 1. Clone the repository: git clone https://github.com/shiiivani/pricing-table.git
